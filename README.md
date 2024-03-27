@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Prakharyo
-- 👀 I’m interested in coding, web development, sports especially in badminton and cricket, trekking, travelling, exploring, musical instruments.
 - 🌱 I’m currently studying B.Tech CSE 
 
 <!---
